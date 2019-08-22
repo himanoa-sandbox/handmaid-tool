@@ -28,9 +28,14 @@ a {
   color: var(--color-cyan);
 }
 
-/* https://hiroppy.github.io/fusuma/docs/guides/slide-syntax#declaring-section-title */
-.section-title {
+li {
+  margin: 1rem;
 }
 
+h1 {
+  color: #3B8A2C;
+  margin: 4rem;
+}
 .title {
+  background-size: cover;
 }
